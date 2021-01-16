@@ -1,4 +1,6 @@
 # KingCounty
+This is a github project clone on Dec 12
+
 美国King County房价预测训练赛 神经网络
 
 这个题也是datacastle上面的一道练习题。由于之前并没有做过回归类问题。于是在网上先查了一些资料再做的。
